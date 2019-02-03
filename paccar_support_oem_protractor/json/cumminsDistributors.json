@@ -1,0 +1,1255 @@
+[
+  {
+    "address": {
+      "city": "Midway",
+      "country": "United States",
+      "postalCode": "32343",
+      "stateOrProvince": "Florida",
+      "streetAddress": "85-1 RAM Boulevad",
+      "streetAddress2": ""
+    },
+    "dealerCode": "00314",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "info@cumminspowersouth.com"
+    },
+    "name": "Cummins Power South",
+    "serviceTypeCodes": [
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "850 350-0000"
+      }
+    ]
+  },
+  {
+    "address": {
+      "city": "PITTSBURGH Harmarville",
+      "country": "United States",
+      "postalCode": "15238-2901",
+      "stateOrProvince": "Pennsylvania",
+      "streetAddress": "3 ALPHA DRIVE E",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02364",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "salesandservice@cummins.com"
+    },
+    "name": "East - Pittsburgh",
+    "serviceTypeCodes": [
+      "FULL SERVICE",
+      "LITE REPAIR",
+      "REPAIR"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "412 820-8300"
+      },
+      {
+        "nickName": "Fax",
+        "number": "412 820-8309"
+      },
+      {
+        "nickName": "TollFree",
+        "number": "800 228-0632"
+      }
+    ],
+    "location": {
+      "lat": "40.5414046",
+      "lon": "-79.8304473"
+    }
+  },
+  {
+    "address": {
+      "city": "Hubbard",
+      "country": "United States",
+      "postalCode": "44425",
+      "stateOrProvince": "Ohio",
+      "streetAddress": "7145 Masury Road",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02369",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "salesandservice@cummins.com"
+    },
+    "name": "East - Youngstown",
+    "serviceTypeCodes": [
+      "FULL SERVICE",
+      "REPAIR",
+      "LITE REPAIR"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "330 534-1935"
+      },
+      {
+        "nickName": "Fax",
+        "number": "330 534-5606"
+      }
+    ],
+    "location": {
+      "lat": "41.1758547",
+      "lon": "-80.5598387"
+    }
+  },
+  {
+    "address": {
+      "city": "MAUMEE TOLEDO",
+      "country": "United States",
+      "postalCode": "43537",
+      "stateOrProvince": "Ohio",
+      "streetAddress": "801 ILLINOIS AVENUE",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02370",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "salesandservice@cummins.com"
+    },
+    "name": "East - Toledo",
+    "serviceTypeCodes": [
+      "LITE REPAIR",
+      "REPAIR",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "419 893-8711"
+      },
+      {
+        "nickName": "Fax",
+        "number": "419 893-5362"
+      }
+    ],
+    "location": {
+      "lat": "41.5702394",
+      "lon": "-83.67618849999997"
+    }
+  },
+  {
+    "address": {
+      "city": "CLEVELAND Walton Hills",
+      "country": "United States",
+      "postalCode": "44146",
+      "stateOrProvince": "Ohio",
+      "streetAddress": "7585 NORTHFIELD ROAD",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02371",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "salesandservice@cummins.com"
+    },
+    "name": "East - Cleveland",
+    "serviceTypeCodes": [
+      "REPAIR",
+      "LITE REPAIR",
+      "PARTS",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "440 439-6800"
+      },
+      {
+        "nickName": "Fax",
+        "number": "440 439-7390"
+      }
+    ],
+    "location": {
+      "lat": "41.3587237",
+      "lon": "-81.5258584"
+    }
+  },
+  {
+    "address": {
+      "city": "WEST CHESTER CINCINNATI",
+      "country": "United States",
+      "postalCode": "45069",
+      "stateOrProvince": "Ohio",
+      "streetAddress": "5400 RIALTO ROAD",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02374",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "salesandservice@cummins.com"
+    },
+    "name": "East - Cincinnati",
+    "serviceTypeCodes": [
+      "REPAIR",
+      "LITE REPAIR",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "513 563-6670"
+      },
+      {
+        "nickName": "Fax",
+        "number": "513 563-0954"
+      },
+      {
+        "nickName": "TollFree",
+        "number": "877 678-7744"
+      }
+    ],
+    "location": {
+      "lat": "39.3304906",
+      "lon": "-84.4457865"
+    }
+  },
+  {
+    "address": {
+      "city": "Spartanburg",
+      "country": "United States",
+      "postalCode": "29303",
+      "stateOrProvince": "South Carolina",
+      "streetAddress": "260 Commercial  Road",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02392",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "michael.erlick@cummins.com"
+    },
+    "name": "Cummins Atlantic",
+    "serviceTypeCodes": [
+      "REPAIR",
+      "PARTS",
+      "LITE REPAIR",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "864 208-2657"
+      },
+      {
+        "nickName": "Fax",
+        "number": "864 208-2658"
+      },
+      {
+        "nickName": "TollFree",
+        "number": "866 746-2684"
+      }
+    ],
+    "location": {
+      "lat": "35.0019773",
+      "lon": "-82.02345869999999"
+    }
+  },
+  {
+    "address": {
+      "city": "CANANEA",
+      "country": "Mexico",
+      "postalCode": "84620",
+      "stateOrProvince": "Sonora",
+      "streetAddress": "CARRETERA CANENEA - IMURIS",
+      "streetAddress2": "PARQUE INDUSTRIAL NO 11"
+    },
+    "dealerCode": "02394",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": ""
+    },
+    "name": "CUMMINS ROCKY MTN DE MEXICO",
+    "serviceTypeCodes": [
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "52-645-333-0028"
+      },
+      {
+        "nickName": "Fax",
+        "number": "52-645-333-0028"
+      }
+    ],
+    "location": {
+      "lat": "30.774093",
+      "lon": "-110.8576941"
+    }
+  },
+  {
+    "address": {
+      "city": "Greensboro",
+      "country": "United States",
+      "postalCode": "27406",
+      "stateOrProvince": "North Carolina",
+      "streetAddress": "512 Teague Street",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02401",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "michael.m.zelyez@cummins.com"
+    },
+    "name": "Cummins Atlantic",
+    "serviceTypeCodes": [
+      "PARTS",
+      "REPAIR",
+      "LITE REPAIR",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "336 275-4531"
+      },
+      {
+        "nickName": "Fax",
+        "number": "336 275-8304"
+      },
+      {
+        "nickName": "TollFree",
+        "number": "800 698-5616"
+      }
+    ],
+    "location": {
+      "lat": "36.03156",
+      "lon": "-79.80449899999996"
+    }
+  },
+  {
+    "address": {
+      "city": "Kenly",
+      "country": "United States",
+      "postalCode": "27542",
+      "stateOrProvince": "North Carolina",
+      "streetAddress": "350 Cummins Drive",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02402",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "Michael.r.stanford@cummins.com"
+    },
+    "name": "Cummins Atlantic",
+    "serviceTypeCodes": [
+      "FULL SERVICE",
+      "LITE REPAIR",
+      "REPAIR",
+      "PARTS"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "919 284-9111"
+      },
+      {
+        "nickName": "Fax",
+        "number": "919 284-9375"
+      },
+      {
+        "nickName": "TollFree",
+        "number": "800 548-0691"
+      }
+    ],
+    "location": {
+      "lat": "35.5740694",
+      "lon": "-78.15197599999999"
+    }
+  },
+  {
+    "address": {
+      "city": "Columbia",
+      "country": "United States",
+      "postalCode": "29209",
+      "stateOrProvince": "South Carolina",
+      "streetAddress": "2791 Shop Road Extension",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02403",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "scott.ostrom@cummins.com"
+    },
+    "name": "Cummins Atlantic",
+    "serviceTypeCodes": [
+      "REPAIR",
+      "LITE REPAIR",
+      "PARTS",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "803 799-2410"
+      },
+      {
+        "nickName": "Fax",
+        "number": "803 779-3427"
+      },
+      {
+        "nickName": "TollFree",
+        "number": "800 695-5383"
+      }
+    ],
+    "location": {
+      "lat": "33.94179",
+      "lon": "-80.95807400000001"
+    }
+  },
+  {
+    "address": {
+      "city": "Summerville",
+      "country": "United States",
+      "postalCode": "29483",
+      "stateOrProvince": "South Carolina",
+      "streetAddress": "231 Farmington Road",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02405",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "kirby.p.barnett@cummins.com"
+    },
+    "name": "Cummins Atlantic",
+    "serviceTypeCodes": [
+      "FULL SERVICE",
+      "PARTS",
+      "LITE REPAIR",
+      "REPAIR"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "843 851-9819"
+      },
+      {
+        "nickName": "Fax",
+        "number": "843 875-4338"
+      },
+      {
+        "nickName": "TollFree",
+        "number": "800 968-3087"
+      }
+    ],
+    "location": {
+      "lat": "33.0280792",
+      "lon": "-80.13615649999997"
+    }
+  },
+  {
+    "address": {
+      "city": "Richmond",
+      "country": "United States",
+      "postalCode": "23234",
+      "stateOrProvince": "Virginia",
+      "streetAddress": "3900 Deepwater Terminal Road",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02409",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "michael.l.lipinski@cummins.com"
+    },
+    "name": "Cummins Atlantic",
+    "serviceTypeCodes": [
+      "REPAIR",
+      "FULL SERVICE",
+      "LITE REPAIR",
+      "PARTS"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "804 232-7891"
+      },
+      {
+        "nickName": "Fax",
+        "number": "804 232-7428"
+      },
+      {
+        "nickName": "TollFree",
+        "number": "800 228-6721"
+      }
+    ],
+    "location": {
+      "lat": "37.4730294",
+      "lon": "-77.42731329999998"
+    }
+  },
+  {
+    "address": {
+      "city": "HENDERSON",
+      "country": "United States",
+      "postalCode": "80640-8523",
+      "stateOrProvince": "Colorado",
+      "streetAddress": "8211 E. 96TH AVE.",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02862",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "james.tulloch@cummins.com"
+    },
+    "name": "CUMMINS ROCKY MOUNTAIN, LLC",
+    "serviceTypeCodes": [
+      "REPAIR",
+      "LITE REPAIR",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "303 287-0201"
+      },
+      {
+        "nickName": "Fax",
+        "number": "303 288-7080"
+      },
+      {
+        "nickName": "TollFree",
+        "number": "800 927-7201"
+      }
+    ],
+    "location": {
+      "lat": "39.8719018",
+      "lon": "-104.894878"
+    }
+  },
+  {
+    "address": {
+      "city": "GRAND JUNCTION",
+      "country": "United States",
+      "postalCode": "81505",
+      "stateOrProvince": "Colorado",
+      "streetAddress": "731 Scarlet Drive",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02863",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "randy.d.bowles@cummins.com"
+    },
+    "name": "CUMMINS ROCKY MOUNTAIN, LLC",
+    "serviceTypeCodes": [
+      "MAINTENANCE",
+      "LITE REPAIR",
+      "REPAIR",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "970 242-5776"
+      },
+      {
+        "nickName": "Fax",
+        "number": "970 243-5494"
+      },
+      {
+        "nickName": "TollFree",
+        "number": "800 564-6401"
+      }
+    ],
+    "location": {
+      "lat": "39.110673",
+      "lon": "-108.63887599999998"
+    }
+  },
+  {
+    "address": {
+      "city": "BILLINGS",
+      "country": "United States",
+      "postalCode": "59101",
+      "stateOrProvince": "Montana",
+      "streetAddress": "5151 MIDLAND ROAD",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02864",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "justin.mann@cummins.com"
+    },
+    "name": "CUMMINS ROCKY MOUNTAIN, LLC",
+    "serviceTypeCodes": [
+      "REPAIR",
+      "FULL SERVICE",
+      "LITE REPAIR"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "(406) 245-4194"
+      },
+      {
+        "nickName": "Fax",
+        "number": "(406) 245-7923"
+      },
+      {
+        "nickName": "TollFree",
+        "number": "(800) 332-7788"
+      }
+    ],
+    "location": {
+      "lat": "45.750972",
+      "lon": "-108.54543100000001"
+    }
+  },
+  {
+    "address": {
+      "city": "GILLETTE",
+      "country": "United States",
+      "postalCode": "82718",
+      "stateOrProvince": "Wyoming",
+      "streetAddress": "2600 E 2nd Street",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02867",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "Keith.Temple@cummins.com"
+    },
+    "name": "CUMMINS ROCKY MOUNTAIN, LLC",
+    "serviceTypeCodes": [
+      "LITE REPAIR",
+      "FULL SERVICE",
+      "REPAIR"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "(307) 682-9611"
+      },
+      {
+        "nickName": "Fax",
+        "number": "(307) 682-8242"
+      }
+    ],
+    "location": {
+      "lat": "44.2923806",
+      "lon": "-105.46328840000001"
+    }
+  },
+  {
+    "address": {
+      "city": "ROCK SPRINGS",
+      "country": "United States",
+      "postalCode": "82901",
+      "stateOrProvince": "Wyoming",
+      "streetAddress": "2000 FOOTHILL BLVD.",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02871",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "scott.koltiska@cummins.com"
+    },
+    "name": "CUMMINS ROCKY MOUNTAIN, LLC",
+    "serviceTypeCodes": [
+      "FULL SERVICE",
+      "PARTS",
+      "LITE REPAIR",
+      "REPAIR"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "(307) 362-5168"
+      },
+      {
+        "nickName": "Fax",
+        "number": "(307) 382-7900"
+      }
+    ],
+    "location": {
+      "lat": "41.576903",
+      "lon": "-109.26802429999998"
+    }
+  },
+  {
+    "address": {
+      "city": "SPARKS",
+      "country": "United States",
+      "postalCode": "89431",
+      "stateOrProvince": "Nevada",
+      "streetAddress": "150 GLENDALE AVENUE",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02876",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "james.b.kim@cummins.com"
+    },
+    "name": "CUMMINS ROCKY MOUNTAIN, LLC",
+    "serviceTypeCodes": [
+      "FULL SERVICE",
+      "LITE REPAIR",
+      "REPAIR"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "(775) 331-4983"
+      },
+      {
+        "nickName": "Fax",
+        "number": "(775) 331-7429"
+      },
+      {
+        "nickName": "TollFree",
+        "number": "(800) 496-6246"
+      }
+    ],
+    "location": {
+      "lat": "39.528259",
+      "lon": "-119.74517700000001"
+    }
+  },
+  {
+    "address": {
+      "city": "NORTH LAS VEGAS",
+      "country": "United States",
+      "postalCode": "89030",
+      "stateOrProvince": "Nevada",
+      "streetAddress": "2807 E Alexander Road",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02877",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "brian.d.graham@cummins.com"
+    },
+    "name": "CUMMINS ROCKY MOUNTAIN, LLC",
+    "serviceTypeCodes": [
+      "LITE REPAIR",
+      "REPAIR",
+      "PARTS",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "702 399-2339"
+      },
+      {
+        "nickName": "Fax",
+        "number": "702 399-2614"
+      }
+    ],
+    "location": {
+      "lat": "36.2320472",
+      "lon": "-115.10947099999998"
+    }
+  },
+  {
+    "address": {
+      "city": "ELKO",
+      "country": "United States",
+      "postalCode": "89801",
+      "stateOrProvince": "Nevada",
+      "streetAddress": "2735 RUBY VISTA DRIVE",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02878",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "terry.ash@cummins.com"
+    },
+    "name": "CUMMINS ROCKY MOUNTAIN, LLC",
+    "serviceTypeCodes": [
+      "LITE REPAIR",
+      "PARTS",
+      "FULL SERVICE",
+      "MAINTENANCE",
+      "REPAIR"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "(775) 738-6405"
+      },
+      {
+        "nickName": "Fax",
+        "number": "(775) 738-1719"
+      }
+    ],
+    "location": {
+      "lat": "40.8583519",
+      "lon": "-115.74712099999999"
+    }
+  },
+  {
+    "address": {
+      "city": "BOISE",
+      "country": "United States",
+      "postalCode": "83716",
+      "stateOrProvince": "Idaho",
+      "streetAddress": "8949 SOUTH FEDERAL WAY",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02880",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "james.tulloch@cummins.com"
+    },
+    "name": "CUMMINS ROCKY MOUNTAIN, LLC",
+    "serviceTypeCodes": [
+      "PARTS",
+      "REPAIR",
+      "LITE REPAIR",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "(208) 336-5000"
+      },
+      {
+        "nickName": "Fax",
+        "number": "(208) 338-5436"
+      }
+    ],
+    "location": {
+      "lat": "43.5209084",
+      "lon": "-116.14686210000002"
+    }
+  },
+  {
+    "address": {
+      "city": "West Valley City",
+      "country": "United States",
+      "postalCode": "84120",
+      "stateOrProvince": "Utah",
+      "streetAddress": "2167 S 5370 W",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02881",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "lance.d.hinerman@cummins.com"
+    },
+    "name": "CUMMINS ROCKY MOUNTAIN, LLC",
+    "serviceTypeCodes": [
+      "REPAIR",
+      "FULL SERVICE",
+      "LITE REPAIR"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "(801) 355-6500"
+      },
+      {
+        "nickName": "Fax",
+        "number": "(801) 524-1351"
+      },
+      {
+        "nickName": "TollFree",
+        "number": "(800) 851-4317"
+      }
+    ],
+    "location": {
+      "lat": "40.724191",
+      "lon": "-112.01842799999997"
+    }
+  },
+  {
+    "address": {
+      "city": "Augusta",
+      "country": "United States",
+      "postalCode": "30907",
+      "stateOrProvince": "Georgia",
+      "streetAddress": "2923 Riverwest Drive",
+      "streetAddress2": ""
+    },
+    "dealerCode": "02931",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "info@cumminspowersouth.com"
+    },
+    "name": "Cummins Power South",
+    "serviceTypeCodes": [
+      "PARTS",
+      "LITE REPAIR",
+      "REPAIR",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "706 722-8825"
+      },
+      {
+        "nickName": "Fax",
+        "number": "706 722-7553"
+      }
+    ],
+    "location": {
+      "lat": "33.5259999",
+      "lon": "-82.03434440000001"
+    }
+  },
+  {
+    "address": {
+      "city": "CHOLULA",
+      "country": "Mexico",
+      "postalCode": "72750",
+      "stateOrProvince": "Puebla",
+      "streetAddress": "BOULEVARD CHOLULA HUEJOTZINGO 107",
+      "streetAddress2": "SAN PEDRO"
+    },
+    "dealerCode": "40711",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": ""
+    },
+    "name": "Megamak Oriente",
+    "serviceTypeCodes": [
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "2223030580"
+      }
+    ],
+    "location": {
+      "lat": "19.098603",
+      "lon": "-98.343892"
+    }
+  },
+  {
+    "address": {
+      "city": "Hobbs",
+      "country": "United States",
+      "postalCode": "88240",
+      "stateOrProvince": "New Mexico",
+      "streetAddress": "405 N West County Road",
+      "streetAddress2": ""
+    },
+    "dealerCode": "40827",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "carlos.payan@cummins.com"
+    },
+    "name": "Cummins Rocky Mountain - Hobbs",
+    "serviceTypeCodes": [
+      "FULL SERVICE",
+      "PARTS"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "575 393-6841"
+      }
+    ],
+    "location": {
+      "lat": "32.7010483",
+      "lon": "-103.1778683"
+    }
+  },
+  {
+    "address": {
+      "city": "Vernal",
+      "country": "United States",
+      "postalCode": "84078",
+      "stateOrProvince": "Utah",
+      "streetAddress": "129 East 500 South",
+      "streetAddress2": ""
+    },
+    "dealerCode": "40829",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": ""
+    },
+    "name": "Cummins Rocky Mountain - Vernal",
+    "serviceTypeCodes": [
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "(435) 789-5923"
+      }
+    ],
+    "location": {
+      "lat": "40.44842879999999",
+      "lon": "-109.52589690000002"
+    }
+  },
+  {
+    "address": {
+      "city": "Mesa",
+      "country": "United States",
+      "postalCode": "85204-6522",
+      "stateOrProvince": "Arizona",
+      "streetAddress": "440 E Juanita Avenue",
+      "streetAddress2": ""
+    },
+    "dealerCode": "40830",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": ""
+    },
+    "name": "Cummins Rocky Mountain - Mesa",
+    "serviceTypeCodes": [
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "(480) 926-2423"
+      },
+      {
+        "nickName": "Fax",
+        "number": "(480) 926-0564"
+      }
+    ],
+    "location": {
+      "lat": "33.381758",
+      "lon": "-111.82151599999997"
+    }
+  },
+  {
+    "address": {
+      "city": "HERMOSILLO",
+      "country": "Mexico",
+      "postalCode": "83210",
+      "stateOrProvince": "Sonora",
+      "streetAddress": "BLVD. GARCIA MORALES NO 543 COL. LLANO",
+      "streetAddress2": ""
+    },
+    "dealerCode": "54665",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": ""
+    },
+    "name": "MEGAMAK PACIFICO",
+    "serviceTypeCodes": [
+      "FULL SERVICE",
+      "REPAIR"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "52 662 2360300"
+      },
+      {
+        "nickName": "Fax",
+        "number": "52 662 2360300"
+      }
+    ],
+    "location": {
+      "lat": "29.095093",
+      "lon": "-111.026974"
+    }
+  },
+  {
+    "address": {
+      "city": "TORREON",
+      "country": "Mexico",
+      "postalCode": "27119",
+      "stateOrProvince": "COAHUILA",
+      "streetAddress": "PERIFERICO RAUL LOPEZ SANCHEZ KM 10.5 SN, COL. EL ROBLE",
+      "streetAddress2": ""
+    },
+    "dealerCode": "54681",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "rdiazvelez@megamak.com.mx"
+    },
+    "name": "MEGAMAK NOROESTE",
+    "serviceTypeCodes": [
+      "REPAIR",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "52 871 7174798"
+      },
+      {
+        "nickName": "Fax",
+        "number": "52 871 7175471"
+      }
+    ],
+    "location": {
+      "lat": "25.578942",
+      "lon": "-103.435675"
+    }
+  },
+  {
+    "address": {
+      "city": "Tepotzotlan",
+      "country": "Mexico",
+      "postalCode": "54605",
+      "stateOrProvince": "Estado de México",
+      "streetAddress": "Libramiento Norte 20 LT2",
+      "streetAddress2": "Col. Barrio Tlacateco"
+    },
+    "dealerCode": "54699",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "infoalesso@alesso.com.mx"
+    },
+    "name": "Cummins Alesso Metropolitano",
+    "serviceTypeCodes": [
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "52 55 58995800"
+      },
+      {
+        "nickName": "Fax",
+        "number": "52 55 58995897"
+      }
+    ],
+    "location": {
+      "lat": "19.726592",
+      "lon": "-99.211437"
+    }
+  },
+  {
+    "address": {
+      "city": "MERIDA",
+      "country": "Mexico",
+      "postalCode": "97259",
+      "stateOrProvince": "Yucatán",
+      "streetAddress": "CALLE 81-A NO. 645 POR ESQ. CALLE 100 COL. SAMBULA",
+      "streetAddress2": ""
+    },
+    "dealerCode": "54700",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": ""
+    },
+    "name": "MEGAMAK SURESTE",
+    "serviceTypeCodes": [
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "52 999 9301300"
+      },
+      {
+        "nickName": "Fax",
+        "number": "52 999 9301331"
+      }
+    ],
+    "location": {
+      "lat": "20.948961",
+      "lon": "89.649989"
+    }
+  },
+  {
+    "address": {
+      "city": "Surrey",
+      "country": "Canada",
+      "postalCode": "V4N 4C5",
+      "stateOrProvince": "British Columbia",
+      "streetAddress": "19555 - 96th Ave.",
+      "streetAddress2": ""
+    },
+    "dealerCode": "74663",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "Scott.Douglas@cummins.com"
+    },
+    "name": "CUMMINS WESTERN CANADA SURREY CPG",
+    "serviceTypeCodes": [
+      "FULL SERVICE",
+      "REPAIR"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "(604) 455-0808"
+      },
+      {
+        "nickName": "Fax",
+        "number": "(604) 882-5727"
+      }
+    ],
+    "location": {
+      "lat": "49.1770141",
+      "lon": "-122.6804937"
+    }
+  },
+  {
+    "address": {
+      "city": "Manassas",
+      "country": "United States",
+      "postalCode": "20109",
+      "stateOrProvince": "Virginia",
+      "streetAddress": "7701 General McClellan Road",
+      "streetAddress2": ""
+    },
+    "dealerCode": "74792",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "salesandservice@cummins.com"
+    },
+    "name": "East - Manassas",
+    "serviceTypeCodes": [
+      "LITE REPAIR",
+      "PARTS",
+      "REPAIR",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "571 292-8740"
+      },
+      {
+        "nickName": "Fax",
+        "number": "571 292-8779"
+      }
+    ],
+    "location": {
+      "lat": "38.7907652",
+      "lon": "-77.55803789999999"
+    }
+  },
+  {
+    "address": {
+      "city": "Leon",
+      "country": "Mexico",
+      "postalCode": "37110",
+      "stateOrProvince": "Guanajuato",
+      "streetAddress": "Blvd. Hidalgo # 2504",
+      "streetAddress2": "Col. Jardines del Valle"
+    },
+    "dealerCode": "74798",
+    "divisionCode": "C",
+    "emailAddress": {
+      "address": "infoalesso@alesso.com.mx"
+    },
+    "name": "Cummins Alesso Leon  Distributor-Branch",
+    "serviceTypeCodes": [
+      "REPAIR",
+      "FULL SERVICE"
+    ],
+    "phoneNumbers": [
+      {
+        "nickName": "Primary",
+        "number": "477 77425 00"
+      },
+      {
+        "nickName": "Fax",
+        "number": "477 774 21 00"
+      }
+    ],
+    "location": {
+      "lat": "21.164668",
+      "lon": "-101.664106"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "realm": "OEM",
+  "grant": [
+    "ROLE_USER_OF_CUSTOMER_WRITE",
+    "ROLE_USER_OF_CUSTOMER_READ",
+    "ROLE_CUSTOMER_CREATE",
+    "ROLE_CUSTOMER_READ",
+    "ROLE_CUSTOMER_WRITE"
+  ],
+  "orgId": "orgId",
+  "orgType": "orgType",
+  "userMetaData": {
+    "oemKeys": [
+      "paccar"
+    ]
+  },
+  "uid": "8c893b46-90a8-4dd4-87ac-859ec43d885f"
+}

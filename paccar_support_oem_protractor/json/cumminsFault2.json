@@ -1,0 +1,530 @@
+{
+  "eventId": "ce6d5f5d126d6fc31b4e7de4efcc2bf0",
+  "guidance": "ACTIONABLE",
+  "snapshots": {
+    "samples": [
+      {
+        "acHighPressFanSw": "not available",
+        "accPedalPosition": 0,
+        "accRateLimitStat": "not available",
+        "acceleratorEnaSw": "not available",
+        "acceleratorPdlPos": 0,
+        "aftrtrtmnt1EFQlty": "NaN",
+        "aftrtrtmnt1InNOx": -200,
+        "aftrtrtmnt1OutNOx": -200,
+        "aftrtrtmnt1SCREff": "NaN",
+        "ambientAirTemp": 6.15625,
+        "at1PurgeAirActSta": "not available",
+        "barometricPress": 95.5,
+        "batteryPotInput1": 14.05,
+        "brakeSwitch": 0,
+        "busUtilization": 36,
+        "catIntakeGasTemp": 250,
+        "catOutletGasTemp": 250,
+        "clutchSwitch": 0,
+        "cmdEngFuelPress": 36.32421875,
+        "cruiseStatus": 0,
+        "cruzCntrlEnableSw": "not available",
+        "cruzCntrlSetSpeed": 95,
+        "dpfActRegenStatus": "regen needed",
+        "dpfIntakeGasTemp": -273,
+        "dpfOutletPressure": 0,
+        "dpfRegenInhibitSw": 0,
+        "dpfThermalMngmnt": 1,
+        "drvrDemandTorque": 0,
+        "drvrPercentTorque": "NaN",
+        "egr1DiffPressure": "NaN",
+        "egr1MassFlowRate": 0,
+        "egr1Temperature": 7.09375,
+        "engAirFlowRate": 326.70000000000005,
+        "engAmberLampCmd": "on",
+        "engAvgFuelEcon": 2.787109375,
+        "engCoolantLevel": 101.60000000000001,
+        "engCoolantTemp": 15,
+        "engCrankcasePress": 0.109375,
+        "engDPFIntakePress": "NaN",
+        "engDemandTorque": 10,
+        "engEgrValvePos": 0,
+        "engExhGasPressure": 18.96875,
+        "engExhaustGasTemp": "NaN",
+        "engFuelDelPress": "NaN",
+        "engFuelTemp1": 0,
+        "engInjRail1Press": 35.41796875,
+        "engIntakeMan1Temp": 8,
+        "engLoadCrntSpeed": 17,
+        "engMILLampCmd": "on",
+        "engManAbsPressure": 104,
+        "engOilPressure": 296,
+        "engOilTemp1": 13.84375,
+        "engPTOGovEnaSw": "not available",
+        "engPTOSpdCntrlSw": "not available",
+        "engPercentTorque": 9,
+        "engProtLampCmd": "not available",
+        "engRedLampCmd": "off",
+        "engRefTorque": 3085,
+        "engTurbo1Boost": 0.25,
+        "engTurbo1InPress": "NaN",
+        "engTurbo1InTemp": 8.25,
+        "engTurbo1Pos": 43.6,
+        "engTurbo1Speed": 22372,
+        "engineFuelRate": 4.3500000000000005,
+        "engineSpeed": 699,
+        "exhaustTankLevel": 99.2,
+        "exhaustTankTemp": 8,
+        "fanSpeed": "NaN",
+        "gaseousFuelPress": 0,
+        "keyswitchBatPot": 14.05,
+        "nomPrcntTorque": 8,
+        "parkingBrakeSw": "not available",
+        "partTrapDiffPress": 0.1,
+        "partTrapOutTemp": 1766.96875,
+        "ptoGovState": 0,
+        "retarderPrcntTrq": 0,
+        "sampleTime": "2018-08-28T12:06:21.000Z",
+        "scrIntakeGasTemp": 1766.96875,
+        "scrOutletGasTemp": 1766.96875,
+        "timeDerateL1": 0,
+        "timeDerateL2": 0,
+        "trqDerateL1": 0,
+        "trqDerateL2": 0,
+        "vehicleSpeed": 0,
+        "waterInFuel": "no"
+      }
+    ],
+    "totalSamples": 70
+  },
+  "unitFormat": "metric",
+  "eventHeader": {
+    "eventType": "guidance_actionable",
+    "occurred": "2018-08-28T12:07:22.000Z",
+    "eventId": "ce6d5f5d126d6fc31b4e7de4efcc2bf0",
+    "receivedOn": "2018-08-28T12:08:25.939Z"
+  },
+  "vehicleData": {
+    "aftrtrtmnt1Fuel": 14,
+    "aftrtrtmnt2Fuel": 0,
+    "dpfSootLoadPrcnt": 31,
+    "dpfSootLoadRegen": 38.4425,
+    "ecuRunTime": 146.1,
+    "egr1ValveControl": 0.5,
+    "engVGT1ActPos": 44,
+    "engVGT1CntrlMode": "closed loop",
+    "fuelLevel": 70.4,
+    "sinceEngStart": 28527,
+    "totalDistance": 5927.038286,
+    "totalEngineHours": 121.30000000000001,
+    "totalEnginePtoHours": 11,
+    "totalFuel": 2127.891022125,
+    "totalFuelGaseous": 0,
+    "totalIdleFuel": 177.014792042,
+    "totalIdleHours": 39.400000000000006,
+    "totalPtoFuel": 45.50100082,
+    "totalRevolutions": 7774,
+    "totalTransPtoHours": 0,
+    "tripFuelGaseous": 0,
+    "vehicleSpeed": 0
+  },
+  "miscHeader": {
+    "altitude": 327.66,
+    "gpsHorizontalAccuracy": 0,
+    "heading": 0,
+    "latitude": 44.9217182,
+    "longitude": -93.449039,
+    "modemRSSI": -52,
+    "peakBusUtilization": 44,
+    "pmgStatus": {
+      "gpsStatus": "passed",
+      "overallStatus": "failed",
+      "radioMode": "GSM/LTE",
+      "radioStatus": "Ant Disconnected"
+    },
+    "totalVehicleDistance": 5927.064360932,
+    "triggerTime": "2018-08-28T12:07:22",
+    "tripId": 10,
+    "vin": "1XPBD49X5GD346065",
+    "afterTreatmentId": "NO_ACM",
+    "engineId": "05317106",
+    "make": "CMMNS"
+  },
+  "syntheticData": {
+    "allLampsOnTime": 1182,
+    "amberLampCount": 11,
+    "amberLampTime": 1616,
+    "engineStartAmbient": 21.666666627999998,
+    "engineStartCoolant": 36.666666613000004,
+    "milLampCount": 4,
+    "milLampTime": 1182,
+    "redLampCount": 3,
+    "redLampTime": 1182,
+    "tripDistance": 0,
+    "tripIdleTime": 0,
+    "tripRunTime": 76
+  },
+  "faultHeader": {
+    "amberWarningLampStatus": "on",
+    "conversionMethod": 0,
+    "failureModeIdentifier": 9,
+    "flashAmberWarningLampStatus": "not available",
+    "flashMalfunctionIndicatorLampStatus": "not available",
+    "flashProtectLampStatus": "not available",
+    "flashRedStopLampStatus": "not available",
+    "malfunctionIndicatorLampStatus": "on",
+    "occurrenceCount": 1,
+    "postTriggerSamples": 10,
+    "preTriggerSamples": 60,
+    "protectLampStatus": "not available",
+    "redStopLampStatus": "off",
+    "sourceAddress": 0,
+    "suspectParameterNumber": 5743
+  },
+  "state": "manufacturing",
+  "dsn": "7578308",
+  "dealerLocations": [
+    {
+      "addresses": [
+        {
+          "city": "Rogers",
+          "countryCode": "US",
+          "nickName": "Physical Address",
+          "state": "MN",
+          "streetAddress": "21701 John Deere Lane",
+          "streetAddress2": "",
+          "zipcode": "55374"
+        }
+      ],
+      "dealerIds": [
+        "A102"
+      ],
+      "dealerKey": "peoplenet:dealer:c1f22d0f-1594-43b4-b22d-0f1594b3b4b7",
+      "emailAddresses": [],
+      "geofences": {
+        "coordinates": [
+          [
+            [
+              [
+                -93.55575695647661,
+                45.19002038642267
+              ],
+              [
+                -93.55439340916847,
+                45.19113249938183
+              ],
+              [
+                -93.55657326529189,
+                45.19241489669449
+              ],
+              [
+                -93.55880480296692,
+                45.19239763635152
+              ],
+              [
+                -93.55575695647661,
+                45.19002038642267
+              ]
+            ]
+          ]
+        ],
+        "type": "multipolygon"
+      },
+      "hidden": false,
+      "hours": [
+        {
+          "close": "00:00:00.000",
+          "nickName": "Service",
+          "open": "05:30:00.000",
+          "weekDays": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "key": "peoplenet:dealer:c1f22d0f-1594-43b4-b22d-0f1594b3b4b7",
+      "location": {
+        "lat": 45.191426327,
+        "lon": -93.556401168
+      },
+      "manufacturerKeys": [
+        "peterbilt"
+      ],
+      "name": "Allstate Peterbilt of Rogers",
+      "oemKeys": [
+        "paccar"
+      ],
+      "phoneNumbers": [
+        {
+          "nickName": "Primary",
+          "number": "7634284333"
+        },
+        {
+          "nickName": "Toll Free",
+          "number": "8009999887"
+        },
+        {
+          "nickName": "Fax",
+          "number": "7634283525"
+        }
+      ],
+      "tags": [
+        "ServiceTypeCode:FullService"
+      ],
+      "timestamp": "2018-06-14T16:26:50.000Z",
+      "version": 95
+    },
+    {
+      "addresses": [
+        {
+          "city": "South St. Paul",
+          "countryCode": "US",
+          "nickName": "Physical Address",
+          "state": "MN",
+          "streetAddress": "558 East Villaume Ave",
+          "streetAddress2": "",
+          "zipcode": "55075"
+        }
+      ],
+      "dealerIds": [
+        "A082"
+      ],
+      "dealerKey": "peoplenet:dealer:fa2e7df2-c607-46b0-ae7d-f2c60766b010",
+      "emailAddresses": [],
+      "geofences": {
+        "coordinates": [
+          [
+            [
+              [
+                -93.02757285699714,
+                44.88328912352638
+              ],
+              [
+                -93.02921821159623,
+                44.88307625678206
+              ],
+              [
+                -93.0317323338429,
+                44.88305742169012
+              ],
+              [
+                -93.03172693985273,
+                44.8818384355011
+              ],
+              [
+                -93.02665638611299,
+                44.88177080417662
+              ],
+              [
+                -93.02757285699714,
+                44.88328912352638
+              ]
+            ]
+          ]
+        ],
+        "type": "multipolygon"
+      },
+      "hidden": false,
+      "hours": [
+        {
+          "close": "00:00:00.000",
+          "nickName": "Service",
+          "open": "07:00:00.000",
+          "weekDays": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "close": "16:30:00.000",
+          "nickName": "Service",
+          "open": "08:00:00.000",
+          "weekDays": [
+            6
+          ]
+        }
+      ],
+      "key": "peoplenet:dealer:fa2e7df2-c607-46b0-ae7d-f2c60766b010",
+      "location": {
+        "lat": 44.882442914,
+        "lon": -93.029319833
+      },
+      "manufacturerKeys": [
+        "peterbilt"
+      ],
+      "name": "Allstate Peterbilt of South St. Paul",
+      "oemKeys": [
+        "paccar"
+      ],
+      "phoneNumbers": [
+        {
+          "nickName": "Primary",
+          "number": "6514556500"
+        },
+        {
+          "nickName": "Toll Free",
+          "number": "8003280104"
+        },
+        {
+          "nickName": "Fax",
+          "number": "6514508176"
+        }
+      ],
+      "tags": [
+        "ServiceTypeCode:FullService"
+      ],
+      "timestamp": "2018-06-14T16:26:49.000Z",
+      "version": 102
+    },
+    {
+      "addresses": [
+        {
+          "city": "North Mankato",
+          "countryCode": "US",
+          "nickName": "Physical Address",
+          "state": "MN",
+          "streetAddress": "2265 Howard Drive West",
+          "streetAddress2": "",
+          "zipcode": "56003"
+        }
+      ],
+      "dealerIds": [
+        "A084"
+      ],
+      "dealerKey": "peoplenet:dealer:1e0a2fae-f1c0-44f9-8a2f-aef1c0d4f92e",
+      "emailAddresses": [],
+      "geofences": {
+        "coordinates": [
+          [
+            [
+              [
+                -94.05757077533495,
+                44.18552287480674
+              ],
+              [
+                -94.0591766560267,
+                44.18555762395733
+              ],
+              [
+                -94.05943938853463,
+                44.18258247701713
+              ],
+              [
+                -94.05675673427895,
+                44.1823434868051
+              ],
+              [
+                -94.05669297388116,
+                44.18415253424732
+              ],
+              [
+                -94.05757077533495,
+                44.18552287480674
+              ]
+            ]
+          ]
+        ],
+        "type": "multipolygon"
+      },
+      "hidden": false,
+      "hours": [
+        {
+          "close": "23:00:00.000",
+          "nickName": "Service",
+          "open": "06:00:00.000",
+          "weekDays": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "key": "peoplenet:dealer:1e0a2fae-f1c0-44f9-8a2f-aef1c0d4f92e",
+      "location": {
+        "lat": 44.183888799,
+        "lon": -94.058079599
+      },
+      "manufacturerKeys": [
+        "peterbilt"
+      ],
+      "name": "Allstate Peterbilt of Mankato",
+      "oemKeys": [
+        "paccar"
+      ],
+      "phoneNumbers": [
+        {
+          "nickName": "Toll Free",
+          "number": "8558183889"
+        },
+        {
+          "nickName": "Primary",
+          "number": "5073889312"
+        },
+        {
+          "nickName": "Fax",
+          "number": "5073884972"
+        }
+      ],
+      "tags": [
+        "ServiceTypeCode:FullService"
+      ],
+      "timestamp": "2018-06-14T16:26:49.000Z",
+      "version": 97
+    }
+  ],
+  "faultGuidance": {
+    "AdditionalInformation": "",
+    "DTCCode": "4152",
+    "DTCDescription": "Aftertreatment Selective Catalytic Reduction Temperature Sensor Module - Abnormal Update Rate",
+    "DerateText": [
+      "::25% Torque Derate in 1 Operating Hour after initial fault occurrence",
+      "::40% Torque Derate in 5 Operating Hours after initial fault occurrence",
+      "::Vehicle limited to 5 mph after engine shutdown, idling 1 hour or refueling"
+    ],
+    "Lamp": "Unknown",
+    "PaccarActionInterpretation": {
+      "AdditionalFaultInformation": "",
+      "Attention": "",
+      "CurrentState": "",
+      "Derates": [
+        {
+          "DerateDescription": "25% Torque Derate in 1 Operating Hour after initial fault occurrence",
+          "DerateValue": "",
+          "Sequence": 1
+        },
+        {
+          "DerateDescription": "40% Torque Derate in 5 Operating Hours after initial fault occurrence",
+          "DerateValue": "",
+          "Sequence": 2
+        },
+        {
+          "DerateDescription": "Vehicle limited to 5 mph after engine shutdown, idling 1 hour or refueling",
+          "DerateValue": "",
+          "Sequence": 3
+        }
+      ],
+      "PossibleCauses": [
+        {
+          "CausesSequenceNumber": 1,
+          "PossibleCause": "OEM Component"
+        }
+      ]
+    },
+    "PossibleCauses": [],
+    "RC": "4",
+    "RecommendedAction": "Service Now",
+    "eMailBucket": "DERATE_ACTIVE",
+    "eMailFlag": true,
+    "localizations": [],
+    "source": "CUMMINS"
+  },
+  "ecu": {
+    "AftertreatmentSoftware": "NO_ACM",
+    "ECUSoftware": "05317106"
+  },
+  "oemKey": "paccar"
+}

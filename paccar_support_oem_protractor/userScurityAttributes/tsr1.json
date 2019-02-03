@@ -1,0 +1,15 @@
+{
+  "realm":"OEM",
+  "grant": ["ROLE_USER_OF_ADMINISTRATIVE_READ",
+    "ROLE_USER_OF_OEM_WRITE","ROLE_USER_OF_OEM_READ",
+    "ROLE_USER_OF_DEALER_WRITE","ROLE_USER_OF_DEALER_READ",
+    "ROLE_USER_OF_CUSTOMER_READ","ROLE_USER_OF_CUSTOMER_WRITE",
+    "ROLE_CUSTOMER_CREATE","ROLE_CUSTOMER_READ","ROLE_CUSTOMER_WRITE",
+    "ROLE_USER_CREATE_WITH_PASSWORD","ROLE_USER_EDIT_VERIFIED_STATUS"],
+  "orgId": "peoplenet",
+  "orgType": "Administrative",
+  "userName": "tsr1-automation@test.com",
+  "userMetaData":
+  {"oemKeys": ["paccar","cat","fedex","ryder"]},
+  "uid":"53a587b5-6eb1-4c11-81d1-8dac853441ca"
+}

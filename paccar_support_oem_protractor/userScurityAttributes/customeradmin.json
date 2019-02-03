@@ -1,0 +1,20 @@
+{
+  "realm": "OEM",
+  "grant": [
+    "ROLE_USER_OF_CUSTOMER_READ",
+    "ROLE_USER_OF_CUSTOMER_WRITE",
+    "ROLE_USER_CREATE_WITH_PASSWORD",
+    "ROLE_USER_EDIT_VERIFIED_STATUS",
+    "ROLE_CUSTOMER_READ",
+    "ROLE_CUSTOMER_WRITE"
+  ],
+  "orgId": "peoplenet:customer:",
+  "orgType": "Customer",
+  "userName": "customeradmin-automation@test.com",
+  "userMetaData": {
+    "oemKeys": [
+      "paccar"
+    ]
+  },
+  "uid": "e77ed4c7-7bfb-42f1-8d36-31453a52bf40"
+}

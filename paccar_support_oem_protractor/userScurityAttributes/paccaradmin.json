@@ -1,0 +1,17 @@
+{
+  "realm":"OEM",
+  "grant": ["ROLE_USER_OF_OEM_WRITE","ROLE_USER_OF_OEM_READ",
+            "ROLE_USER_OF_DEALEROWNER_WRITE","ROLE_USER_OF_DEALEROWNER_READ",
+            "ROLE_USER_OF_DEALERREGION_WRITE","ROLE_USER_OF_DEALERREGION_READ",
+            "ROLE_USER_OF_DEALER_WRITE","ROLE_USER_OF_DEALER_READ",
+            "ROLE_USER_OF_CUSTOMER_READ","ROLE_USER_OF_CUSTOMER_WRITE","ROLE_CUSTOMER_DELETE",
+            "ROLE_CUSTOMER_CREATE","ROLE_CUSTOMER_READ","ROLE_CUSTOMER_WRITE",
+            "ROLE_USER_CREATE_WITH_PASSWORD","ROLE_USER_EDIT_VERIFIED_STATUS","ROLE_USER_DELETE",
+            "ROLE_USER_OF_MANUFACTURER_WRITE"],
+  "orgId": "paccar",
+  "orgType": "Administrative",
+  "userName": "paccaradmin-automation@test.com",
+  "userMetaData":
+  {"oemKeys": ["paccar"]},
+  "uid":"f988552a-24ce-429a-8b6a-7a8db8ed0ccc"
+}

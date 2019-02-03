@@ -1,0 +1,24 @@
+{ "key": "1XKYDP9XXGJ474000",
+  "createParentIfMissing": false,
+  "timestamp":  "2017-07-07T16:29:00.781Z",
+  "data": {
+    "customerKey": "peoplenet:customer:bb3d3217-becc-4397-bd32-17becc1397aa",
+    "description": "Running Automation *Please Do Not Edit*",
+    "manufacturerKey": "kenworth",
+    "oemKey": "paccar",
+    "ownershipRecords": [
+      {
+      "customerDeliveryDate": "2017-07-10",
+      "customerKey": "peoplenet:customer:5144dce5-04e3-4a17-84dc-e504e3ba1719",
+      "timestamp": "2017-07-10T18:57:21.723Z",
+      "transferedOwnershipUserId": "22e29e0e-d802-47c1-97e9-87dcfe08ad97"
+      }
+    ],
+    "subscriptionStatus": "INACTIVE",
+    "tags": [
+      "peoplenet:vehiclegroup:3fcb89d0-f453-4176-97da-e3ad21ccb374"
+    ],
+    "timestamp": "2017-07-05T14:01:26.106Z",
+    "unitNumber": "AUTOMATION (DO NOT TRANSFER OWNERSHIP)"
+  }
+}
