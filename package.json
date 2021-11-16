@@ -2,7 +2,7 @@
   "name": "portalprotractor",
   "version": "0.0.0",
   "devDependencies": {
-    "aws-sdk": "^2.186.0",
+    "aws-sdk": "^2.814.0",
     "bluebird": "^3.4.0",
     "config": "^1.29.2",
     "jasmine": "^2.9.0",
